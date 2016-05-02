@@ -1,0 +1,28 @@
+name: Kathleen
+favicon: null
+layout_spectrum: 0.35715287108905613
+typography_spectrum: 0.5128720987122506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.021025267895311117
+  lightness: 0.975791335105896
+  saturation: 0.39674244495108724
+  rhythmicContrast: 0.283588204998523
+purpose: []
