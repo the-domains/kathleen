@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kathleen]]></title>
         <description><![CDATA[Kathleen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kathleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:50:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 13:57:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kathleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/888e9f55-2a8c-4f02-ba73-077d60f7cf2f.jpg">]]></description>
-            <link>undefinedi-got-a-micro-camera-flowers/index.html</link>
+            <link>https://thegrid.ai/kathleen/i-got-a-micro-camera-flowers/index.html</link>
             <guid isPermaLink="false">c68e4dd8-03cf-4d1d-96f2-a89cd53a1b68</guid>
-            <pubDate>Mon, 02 May 2016 13:50:30 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 13:57:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
